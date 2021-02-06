@@ -7,6 +7,15 @@ header {
     background-image: linear-gradient(to bottom, lightskyblue,blue,darkblue,black);
 }
 
+.logo {
+    width: 4rem;
+}
+
+body{
+    background-image: url(/images/weight-room.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 
 
 footer {
@@ -15,4 +24,28 @@ footer {
     bottom: 0;
     width: 100%;
     height: 4rem;
+}
+
+.social{
+    margin: 20px;
+}
+
+.bi{
+    margin:5px;
+}
+
+.bi-instagram {
+    color: magenta
+}
+
+.bi-facebook {
+    color: white;
+}
+
+.bi-twitter {
+    color: mediumturquoise;
+}
+
+.bi-google {
+    color: red;
 }
