@@ -3,6 +3,13 @@ h1, h2 {
     color: gold;
 }
 
+.carousel-caption {
+    font-family: 'Potta One', cursive;
+    color: gold;
+    border: solid black;
+    background-color: gray;
+}
+
 header {
     background-image: linear-gradient(to bottom, lightskyblue,blue,darkblue,black);
 }
@@ -12,11 +19,32 @@ header {
 }
 
 body{
-    background-image: url(/images/weight-room.jpg);
+    background-image: url(/images/weights.jfif);
     background-repeat: no-repeat;
     background-size: cover;
 }
 
+.carousel{
+     margin: 10px; 
+}
+
+.trainer {
+    display: block;
+    height: 500px;
+    width: 100%;
+}
+
+.form {
+    display: block;
+    height: 500px;
+    width: 100%;
+}
+
+.nutrition {
+    display: block;
+    height: 500px;
+    width: 100%;
+}
 
 footer {
     background-image: linear-gradient(to bottom, black, darkblue, blue, lightskyblue);
