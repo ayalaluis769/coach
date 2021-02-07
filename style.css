@@ -46,6 +46,18 @@ body{
     width: 100%;
 }
 
+.card {
+    width: 40%;
+    background-color: black;
+    font-family: 'Potta One', cursive;
+    color: gold;
+    margin: 6px;
+}
+
+.card-img-top {
+    width: 30%;
+}
+
 footer {
     background-image: linear-gradient(to bottom, black, darkblue, blue, lightskyblue);
     position: fixed;
