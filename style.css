@@ -46,16 +46,28 @@ body{
     width: 100%;
 }
 
-.card {
-    width: 40%;
-    background-color: black;
+.card{
     font-family: 'Potta One', cursive;
     color: gold;
-    margin: 6px;
+    background-color: black;
 }
 
-.card-img-top {
-    width: 30%;
+.btn-primary{
+    padding: 2px
+}
+
+.card-img-top{
+    height: 18rem;
+}
+
+.card-columns{
+    margin: auto;
+}
+
+video{
+    width: 400px;
+    height: 250px;
+    margin: auto;
 }
 
 footer {
